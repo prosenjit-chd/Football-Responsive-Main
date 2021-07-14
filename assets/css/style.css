@@ -272,7 +272,7 @@ footer{
         width: 100%;
     }
     .highlights-img-header{
-        margin-top: 80px;
+        margin-top: 130px;
     }
     .players {
         grid-template-columns: repeat(1, 1fr);
@@ -288,6 +288,9 @@ footer{
     .highlights-text, .highlights-img{
         width: 100%;
         margin-bottom: 20px;
+    }
+    .highlights-img{
+        margin-top: 50px;
     }
     .partner-logo{
         text-align: center;
